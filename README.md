@@ -6,11 +6,14 @@
 
 ## Repository Structure
 
-```
+```bash
 .
-├── Capital_Project_Schedules_and_Budgets.xlsx  # Dataset used for training the model
-├── app.py                                     # Streamlit application code
-└── decision_tree_model_with_smote.pkl         # Pre-trained machine learning model
+├── Capital_Project_Schedules_and_Budgets.xlsx # Dataset used for training the model
+├── README.md  # Project's readme file
+├── app.py  # Streamlit application code
+├── decision_tree_model_with_smote.pkl # Pre-trained machine learning model
+├── project_report.pdf # Project's short report
+└── proposal.pdf # Project's initial proposal
 ```
 
 ---
