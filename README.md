@@ -2,7 +2,9 @@
 
 **DelayGuard** is a Streamlit-based web application designed to predict the likelihood of delays in capital projects. It uses a machine learning model trained on project data to provide probabilistic predictions and qualitative insights.
 
----
+⭐️
+[![GitHub stars](https://img.shields.io/github/stars/okaeiz/delayguard?style=social)](https://github.com/okaeiz/delayguard/stargazers)
+⭐️
 
 ## Repository Structure
 
